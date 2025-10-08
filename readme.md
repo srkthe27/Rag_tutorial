@@ -13,8 +13,8 @@ It demonstrates the use of Python, Jupyter, and supporting libraries for analysi
 ## Setup Instructions
 To run this project locally:
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone [<your-repo-url>](https://github.com/srkthe27/Rag_tutorial.git)
+cd Rag_tutorial
 pip install -r requirements.txt
 jupyter notebook
 ```
@@ -30,11 +30,9 @@ The notebook demonstrates:
 ## Dependencies
 Commonly used libraries may include:
 - pandas  
-- numpy  
-- matplotlib / seaborn  
-- scikit-learn / tensorflow / pytorch  
+- numpy   
+- pytorch  
 
-Create a `requirements.txt` file to list all dependencies for reproducibility.
 
 ## Results
 Key outputs or findings can be summarized here.  
@@ -51,7 +49,6 @@ You can include generated plots, metrics, or examples of predictions.
 
 ## Future Work
 - Extend data sources
-- Optimize model or algorithms
 - Add deployment or API integration
 
 ## License
