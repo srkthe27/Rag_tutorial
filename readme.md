@@ -13,7 +13,7 @@ It demonstrates the use of Python, Jupyter, and supporting libraries for analysi
 ## Setup Instructions
 To run this project locally:
 ```bash
-git clone [<your-repo-url>](https://github.com/srkthe27/Rag_tutorial.git)
+git clone https://github.com/srkthe27/Rag_tutorial.git
 cd Rag_tutorial
 pip install -r requirements.txt
 jupyter notebook
